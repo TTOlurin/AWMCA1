@@ -44,7 +44,7 @@ when I pinged my domain name, the Droplet's IP address was returned:
 
 ![image](https://user-images.githubusercontent.com/71713573/200975620-5c488b8a-0647-477d-8100-df9064d472db.png)
 
-Next step: I am continuously working on this project and plan to fully deploy the application very soon.
+Next steps: I am continuously working on this project and plan to fully deploy the application very soon.
 
 
 
